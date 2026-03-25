@@ -18,3 +18,11 @@
 	margin: auto;
 	display: block;
 }
+
+body {
+	background-color: #f7eddc;
+}
+
+#tortenet {
+	font-weight: bold;
+}
